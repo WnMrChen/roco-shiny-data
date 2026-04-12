@@ -16,7 +16,7 @@
 
 扫码加入 QQ 群，讨论游戏机制、分享游戏心得：
 
-<img src="qq_group.jpg" width="200">
+<img src="qq_group.jpg" width="600">
 
 ---
 
