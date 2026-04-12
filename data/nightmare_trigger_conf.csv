@@ -1,0 +1,2 @@
+﻿id,editor_name,event_type,event_count_type,bonus_type,bonus_id,is_repeat_bonus,probability,prob_type,prob_param1,prob_param2,trig_time_reset_type,trig_time_reset_begin,trig_time_reset_gap,bonus_event_petbase_field_count,is_refresh_petbase_field_count
+115001,通用连续捕捉事件,1,2,2,115001,1,"[{""event_count_value"": 100, ""bonus_prob"": 1}]",2,[520],[46],7,2025-09-01 04:00:00,7 00:00:00,30,True
